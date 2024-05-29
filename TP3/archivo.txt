@@ -1,0 +1,10 @@
+2_ Tarea sin hilos
+1. El tiempo de ejecucion es predecible ya que es casi el mismo cada vez que se ejecuta el codigo
+2. Un proceso o funcion de la vida real que pueda ser considerado procesos de "maxima velocidad posible", puede ser por ejemplo la comprension de archivos, ya que la velocidad a la que se realize la comprension depende en gran medida de la potencia y eficiencia del procesador.
+3. Un ejemplo de proceso de "velocidad de respuesta no dependiente de la velocidad de procesamiento" puede ser la comunicacion red.
+
+Tarea con hilos
+1. El tiempo de ejecucion respecto al programa sin hilos es mayor, no mejoro.
+2.No, primero se ejecuta el 2do programa, luego se ejecuta el 1ero, y por ultimo el tercero.
+3. Un buen ejemplo de como el multi-hilo puede mejorar considerablemente el tiempo de respuesta de un sistema es la renderizacion de graficos en tiempo real en videojuegos.
+
